@@ -1,0 +1,184 @@
+{
+  "states": [
+    {
+      "stateName": "Andhra Pradesh",
+      "tin": "37",
+      "stateCode": "AP"
+    },
+    {
+      "stateName": "Arunachal Pradesh",
+      "tin": "12",
+      "stateCode": "AR"
+    },
+    {
+      "stateName": "Assam",
+      "tin": "18",
+      "stateCode": "AS"
+    },
+    {
+      "stateName": "Bihar",
+      "tin": "10",
+      "stateCode": "BR"
+    },
+    {
+      "stateName": "Chattisgarh",
+      "tin": "22",
+      "stateCode": "CG"
+    },
+    {
+      "stateName": "Delhi",
+      "tin": "07",
+      "stateCode": "DL"
+    },
+    {
+      "stateName": "Goa",
+      "tin": "30",
+      "stateCode": "GA"
+    },
+    {
+      "stateName": "Gujarat",
+      "tin": "24",
+      "stateCode": "GJ"
+    },
+    {
+      "stateName": "Haryana",
+      "tin": "06",
+      "stateCode": "HR"
+    },
+    {
+      "stateName": "Himachal Pradesh",
+      "tin": "02",
+      "stateCode": "HP"
+    },
+    {
+      "stateName": "Jammu and Kashmir",
+      "tin": "01",
+      "stateCode": "JK"
+    },
+    {
+      "stateName": "Jharkhand",
+      "tin": "20",
+      "stateCode": "JH"
+    },
+    {
+      "stateName": "Karnataka",
+      "tin": "29",
+      "stateCode": "KA"
+    },
+    {
+      "stateName": "Kerala",
+      "tin": "32",
+      "stateCode": "KL"
+    },
+    {
+      "stateName": "Lakshadweep Islands",
+      "tin": "31",
+      "stateCode": "LD"
+    },
+    {
+      "stateName": "Madhya Pradesh",
+      "tin": "23",
+      "stateCode": "MP"
+    },
+    {
+      "stateName": "Maharashtra",
+      "tin": "27",
+      "stateCode": "MH"
+    },
+    {
+      "stateName": "Manipur",
+      "tin": "14",
+      "stateCode": "MN"
+    },
+    {
+      "stateName": "Meghalaya",
+      "tin": "17",
+      "stateCode": "ML"
+    },
+    {
+      "stateName": "Mizoram",
+      "tin": "15",
+      "stateCode": "MZ"
+    },
+    {
+      "stateName": "Nagaland",
+      "tin": "13",
+      "stateCode": "NL"
+    },
+    {
+      "stateName": "Odisha",
+      "tin": "21",
+      "stateCode": "OD"
+    },
+    {
+      "stateName": "Puducherry",
+      "tin": "34",
+      "stateCode": "PY"
+    },
+    {
+      "stateName": "Punjab",
+      "tin": "03",
+      "stateCode": "PB"
+    },
+    {
+      "stateName": "Rajasthan",
+      "tin": "08",
+      "stateCode": "RJ"
+    },
+    {
+      "stateName": "Sikkim",
+      "tin": "11",
+      "stateCode": "SK"
+    },
+    {
+      "stateName": "Tamil Nadu",
+      "tin": "33",
+      "stateCode": "TN"
+    },
+    {
+      "stateName": "Telangana",
+      "tin": "36",
+      "stateCode": "TS"
+    },
+    {
+      "stateName": "Tripura",
+      "tin": "16",
+      "stateCode": "TR"
+    },
+    {
+      "stateName": "Uttar Pradesh",
+      "tin": "09",
+      "stateCode": "UP"
+    },
+    {
+      "stateName": "Uttarakhand",
+      "tin": "05",
+      "stateCode": "UK"
+    },
+    {
+      "stateName": "West Bengal",
+      "tin": "19",
+      "stateCode": "WB"
+    },
+    {
+      "stateName": "Andaman and Nicobar Islands",
+      "tin": "35",
+      "stateCode": "AN"
+    },
+    {
+      "stateName": "Chandigarh",
+      "tin": "04",
+      "stateCode": "CH"
+    },
+    {
+      "stateName": "Dadra & Nagar Haveli and Daman & Diu",
+      "tin": "26",
+      "stateCode": "DN"
+    },
+    {
+      "stateName": "Ladakh",
+      "tin": "38",
+      "stateCode": "LA"
+    }
+  ]
+}
