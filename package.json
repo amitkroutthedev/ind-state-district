@@ -10,6 +10,10 @@
     "assets",
     "utils"
   ],
+  "bugs": {
+    "url": "https://github.com/amitkroutthedev/ind-state-district/issues"
+  },
+  "homepage": "https://github.com/amitkroutthedev/ind-state-district",
   "scripts": {
     "build": "tsup",
     "start": "tsup && node ./dist/index.js",
