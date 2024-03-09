@@ -13,19 +13,25 @@
   "bugs": {
     "url": "https://github.com/amitkroutthedev/ind-state-district/issues"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/amitkroutthedev/ind-state-district",
   "scripts": {
     "build": "tsup",
-    "start": "tsup && node ./dist/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsup && node ./dist/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/big-json": "^3.2.4",
     "@types/jest": "^29.5.12",
     "jest": "^29.7.0",
     "ts-jest": "^29.1.2",
     "tsup": "^8.0.1"
+  },
+  "dependencies": {
+    "big-json": "^3.2.0"
   }
 }

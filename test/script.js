@@ -1,3 +1,3 @@
-const {State,Districts} = require("state-district-ind")
+const {State} =require("ind-state-district")
 
-console.log();
+console.log(State.getStateNameFromCode("OD"));
