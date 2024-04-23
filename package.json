@@ -1,6 +1,6 @@
 {
   "name": "ind-state-district",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -8,13 +8,12 @@
   "files": [
     "dist",
     "assets",
-    "utils"
+    "utils",
+    "package.json",
+    "Readme.md"
   ],
   "bugs": {
     "url": "https://github.com/amitkroutthedev/ind-state-district/issues"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/amitkroutthedev/ind-state-district",
   "scripts": {

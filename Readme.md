@@ -20,11 +20,12 @@ This function returns an array of objects, where each object represents a state/
  - `stateName`: The name of the state/union territory.
  - `tin`: The taxpayer identification number of the state/union territory.
  - `stateCode`: The short form of the state/union territory name
+ - `isUT`: If the current state is an Union Territory or not.
 
 ```javascript
 [
-  { stateName: 'Andhra Pradesh', tin: '37', stateCode: 'AP' },
-  { stateName: 'Arunachal Pradesh', tin: '12', stateCode: 'AR' },....
+  { stateName: 'Andhra Pradesh', tin: '37', stateCode: 'AP',isUT:false },
+  { stateName: 'Arunachal Pradesh', tin: '12', stateCode: 'AR',isUT:true },....
 }
 ```
 ### 2. `State.getStateNameFromCode(stateCode)`

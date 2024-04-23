@@ -1,3 +1,3 @@
 const {State} =require("ind-state-district")
 
-console.log(State.getStateNameFromCode("OD"));
+console.log(State.getStateNameFromCode("LA"));
