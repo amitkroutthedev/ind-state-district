@@ -1,9 +1,10 @@
 //import allStateList from "../assets/states.json";
 import { AllStates } from './interface';
 import fs from 'fs';
+import path from "path"
 
 function getAllStatesList(): AllStates[] {
-	const data = fs.readFileSync('../assets/states.json', 'utf8');
+	const data = fs.readFileSync(path.join(__dirname,"../assets/states.json"), 'utf8');
 	return JSON.parse(data).states;
 }
 
