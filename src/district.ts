@@ -1,9 +1,10 @@
 import { AllDistricts } from './interface';
 import fs from 'fs';
 import { getStateCodeFromName } from './state';
+import path from "path"
 
 function getAllDistrictsList(): AllDistricts[] {
-	const data = fs.readFileSync('../assets/district.json', 'utf8');
+	const data = fs.readFileSync(path.join(__dirname,"../assets/states.json"), 'utf8');
 	return JSON.parse(data).districts;
 }
 
