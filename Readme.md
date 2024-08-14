@@ -2,6 +2,7 @@
 # ind-states-districts
 ![npmv](https://img.shields.io/npm/v/ind-state-district)![types](https://img.shields.io/npm/types/ind-state-district)![downloads](https://img.shields.io/npm/dt/ind-state-district
 )
+>⚠ There was a problem with retrieving data from the functions, which has been resolved in the current version. Sorry! If this has caused any problems when using these packages.
 
 This npm package provides a list of districts across all states and union territories of India, along with their respective state codes(short forms) and district codes(short forms).
 
